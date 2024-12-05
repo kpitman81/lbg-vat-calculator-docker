@@ -4,7 +4,11 @@
 }
 
 .colour-border{
+<<<<<<< HEAD
   border: 3px solid rgb(113, 0, 128);
+=======
+  border: 3px solid orange;
+>>>>>>> 33b77992fc2bac943040512ca33b6436dd9b21c4
   padding: 10px;
 }
 
